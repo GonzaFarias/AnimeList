@@ -168,6 +168,14 @@ footer {
   width: 100%;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: #d32f2f;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
